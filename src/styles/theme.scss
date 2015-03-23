@@ -3,7 +3,8 @@ body {
 }
 
 header {
-  padding-top: 3em;
+  padding-top: 3.5em;
+  padding-bottom: 0.5em;
   background-color: transparent;
 
   h1.logo a {
@@ -23,4 +24,8 @@ h3 {
 .format-standard,
 .type-page {
   font-size: 1.3em;
+}
+
+nav {
+  display: none;
 }
