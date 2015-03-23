@@ -2,7 +2,8 @@ body {
   background: #fff url("../images/bg-sinds82.png") repeat-x left top; }
 
 header {
-  padding-top: 3em;
+  padding-top: 3.5em;
+  padding-bottom: 0.5em;
   background-color: transparent; }
   header h1.logo a {
     color: #2D3E4F; }
@@ -16,3 +17,6 @@ h3 {
 
 .format-standard, .type-page {
   font-size: 1.3em; }
+
+nav {
+  display: none; }
