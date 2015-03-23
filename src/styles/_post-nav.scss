@@ -1,0 +1,23 @@
+.navigation {
+  @include align-items(stretch);
+  @include display(flex);
+  @include flex-direction(row);
+  @include justify-content(flex-start);
+
+  margin-top: $base-spacing;
+  padding-top: $base-spacing;
+  padding-bottom: $base-spacing;
+}
+
+.next-posts,
+.prev-posts {
+  @include flex(1);
+  
+  a {
+    @extend a.action;
+  }
+}
+
+.prev-posts {
+  text-align: right;
+}

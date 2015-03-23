@@ -1,0 +1,12 @@
+.widget_text {
+  margin-bottom: $base-spacing * 5;
+  background-color: #efefef;
+  padding: 1em;
+  border: none;
+  border: 1px solid $base-border-color;
+  line-height: 2em;
+  text-align: center;
+  h2 {
+    display: none;
+  }
+}
