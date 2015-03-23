@@ -1,12 +1,15 @@
 /*
-Theme Name: Ganymede
-Theme URI: http://reinier.io
-Description: A minimal theme
-Author: Reinier Ladan
-Author URI: http://reinier.io
-Version: 1
+ Theme Name:   Sinds '82 - Ganymede child
+ Theme URI:    http://sinds82.nl
+ Description:  Sinds '82 Theme based on Ganymede
+ Author:       Reinier Ladan
+ Author URI:   http://reinier.io
+ Template:     ganymede
+ Version:      1.0.0
 */
 
 /*
   Keep this file empty, only for WP
 */
+
+@import url("styles/theme.css");

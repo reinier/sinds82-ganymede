@@ -2,7 +2,7 @@
     CONFIG
    --------------------------------------- */
 
-var title             = 'ganymede';
+var title             = 'sinds82-ganymede';
 
 // Project paths
 var src               = './src/';

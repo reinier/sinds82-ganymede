@@ -1,14 +1,25 @@
-@import "bourbon";
+body {
+  background: #fff url("../images/bg-sinds82.png") repeat-x left top;
+}
 
-// Neat Settings -- uncomment if using Neat -- must be imported before Neat
-@import "bitters/grid-settings";
-@import "neat";
+header {
+  padding-top: 3em;
+  background-color: transparent;
 
-@import "bitters/base";
+  h1.logo a {
+    color: #2D3E4F;
+  }
+}
 
-@import "structure";
-@import "header";
-@import "post";
-@import "post-nav";
-@import "footer";
-@import "widgets";
+h2 {
+  font-size: 1.8em;
+}
+
+h3 {
+  font-size: 1.3em;
+  margin-top: 2em;
+}
+
+.format-standard {
+  font-size: 1.3em;
+}
