@@ -1,0 +1,18 @@
+body {
+  background: #fff url("../images/bg-sinds82.png") repeat-x left top; }
+
+header {
+  padding-top: 3em;
+  background-color: transparent; }
+  header h1.logo a {
+    color: #2D3E4F; }
+
+h2 {
+  font-size: 1.8em; }
+
+h3 {
+  font-size: 1.3em;
+  margin-top: 2em; }
+
+.format-standard {
+  font-size: 1.3em; }
