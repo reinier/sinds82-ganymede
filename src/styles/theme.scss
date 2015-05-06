@@ -29,3 +29,13 @@ h3 {
 nav {
   display: none;
 }
+
+.entry {
+  a {
+    text-decoration: underline;
+  }
+
+  h2 a {
+    text-decoration: none;
+  }
+}
